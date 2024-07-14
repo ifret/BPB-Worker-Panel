@@ -11,7 +11,7 @@ let userID = 'cb3f8261-f3d9-492b-9fa2-44158bb67c7c';
 
 // https://www.nslookup.io/domains/cdn.xn--b6gac.eu.org/dns-records/
 // https://www.nslookup.io/domains/cdn-all.xn--b6gac.eu.org/dns-records/
-const proxyIPs= ['fbi.gov', 'www.baipiao.eu.org', 'www.sean-now.com', 'www.gov.ua', 'download.yunzhongzhuan.com', 'www.udemy.com'];
+const proxyIPs= ['cdn.xn--b6gac.eu.org', 'cdn-all.xn--b6gac.eu.org', 'edgetunnel.anycast.eu.org'];
 
 const defaultHttpPorts = ['80', '8080', '2052', '2082', '2086', '2095', '8880'];
 const defaultHttpsPorts = ['443', '8443', '2053', '2083', '2087', '2096'];
