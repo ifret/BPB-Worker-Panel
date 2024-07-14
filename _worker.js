@@ -11,7 +11,7 @@ let userID = 'cb3f8261-f3d9-492b-9fa2-44158bb67c7c';
 
 // https://www.nslookup.io/domains/cdn.xn--b6gac.eu.org/dns-records/
 // https://www.nslookup.io/domains/cdn-all.xn--b6gac.eu.org/dns-records/
-const proxyIPs= ['workers.cloudflare.cyou', 'cdn.xn--b6gac.eu.org', 'cdn-all.xn--b6gac.eu.org', 'bestproxy.onecf.eu.org', 'edgetunnel.anycast.eu.org'];
+const proxyIPs= ['workers.cloudflare.cyou', 'cdn.xn--b6gac.eu.org', 'cdn-all.xn--b6gac.eu.org', 'bestproxy.onecf.eu.org', 'edgetunnel.anycast.eu.org', 'cdn.jsbang.top', 'cdn.didi8.com', 'opop.200307.xyz', 'cn.king361.link', 'go.mesad.1145114.me', '80.cf.bestl.de', '443.cf.bestl.de', 'cfa.xiaoxing.link', 'ff.yydsb.link'];
 
 const defaultHttpPorts = ['80', '8080', '2052', '2082', '2086', '2095', '8880'];
 const defaultHttpsPorts = ['443', '8443', '2053', '2083', '2087', '2096'];
